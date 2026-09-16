@@ -1,0 +1,7 @@
+{
+  "name": "LoadGo",
+  "description": "Local goods transportation marketplace connecting customers, drivers, and admins for on-demand mini trucks and tempos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
